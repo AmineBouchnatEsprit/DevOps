@@ -1,5 +1,5 @@
 Test webhook 2
-Test webhook 24/11/2026
+Test webhook 
 # DevOps-AppGestionDesProjets
 
 Ce dépôt contient un projet **Spring Boot** (backend) et **Angular** (frontend) utilisé dans le cadre du module **DevOps**.  
